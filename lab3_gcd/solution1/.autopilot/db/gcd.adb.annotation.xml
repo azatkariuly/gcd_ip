@@ -1,0 +1,10 @@
+<annotationInfo>
+<annotationInfo>
+<item  id="18" filename="lab3_gcd/gcd.cpp" linenumber="7" name="icmp_ln7" contextFuncName="gcd" moduleName="gcd" rtlName="icmp_ln7_fu_62_p2" latency="0" BRAM="-1" DSP="-1" FF="0" LUT="18" fileDirectory="D:\Project\Lab3"><\/item>
+<item  id="21" filename="lab3_gcd/gcd.cpp" linenumber="8" name="icmp_ln8" contextFuncName="gcd" moduleName="gcd" rtlName="icmp_ln8_fu_68_p2" latency="0" BRAM="-1" DSP="-1" FF="0" LUT="18" fileDirectory="D:\Project\Lab3"><\/item>
+<item  id="22" filename="lab3_gcd/gcd.cpp" linenumber="9" name="sub_ln9" contextFuncName="gcd" moduleName="gcd" rtlName="sub_ln9_fu_74_p2" latency="0" BRAM="-1" DSP="-1" FF="0" LUT="39" fileDirectory="D:\Project\Lab3"><\/item>
+<item  id="23" filename="lab3_gcd/gcd.cpp" linenumber="11" name="sub_ln11" contextFuncName="gcd" moduleName="gcd" rtlName="sub_ln11_fu_80_p2" latency="0" BRAM="-1" DSP="-1" FF="0" LUT="39" fileDirectory="D:\Project\Lab3"><\/item>
+<item  id="24" filename="lab3_gcd/gcd.cpp" linenumber="8" name="select_ln8" contextFuncName="gcd" moduleName="gcd" rtlName="select_ln8_fu_86_p3" latency="0" BRAM="-1" DSP="-1" FF="0" LUT="32" fileDirectory="D:\Project\Lab3"><\/item>
+<item  id="25" filename="lab3_gcd/gcd.cpp" linenumber="8" name="select_ln8_1" contextFuncName="gcd" moduleName="gcd" rtlName="select_ln8_1_fu_94_p3" latency="0" BRAM="-1" DSP="-1" FF="0" LUT="32" fileDirectory="D:\Project\Lab3"><\/item>
+<\/annotationInfo>
+</annotationInfo>

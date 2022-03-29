@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<autopilotfilemapping:AutoPilotFileMapping xmlns:autopilotfilemapping="www.autoesl.com/autopilotfilemapping">
+  <source>
+    <originFiles name="gcd.h" path="D:\Project\Lab3\gcd.h"/>
+    <originFiles name="gcd.cpp" path="D:\Project\Lab3\lab3_gcd\gcd.cpp"/>
+  </source>
+  <testbench>
+    <originFiles name="tb.cpp" path="D:\Project\Lab3\tb.cpp"/>
+  </testbench>
+</autopilotfilemapping:AutoPilotFileMapping>

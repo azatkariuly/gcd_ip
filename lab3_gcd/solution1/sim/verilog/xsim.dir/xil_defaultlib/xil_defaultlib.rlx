@@ -1,0 +1,8 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+D:/Project/Lab3/lab3_gcd/solution1/sim/verilog/AESL_axi_slave_AXILiteS.v,1648541067,systemVerilog,,,,AESL_axi_slave_AXILiteS,D:/Xilinx/Vivado/2020.1/data/xsim/ip/xsim_ip.ini,axi_protocol_checker_v1_1_12;axi_protocol_checker_v1_1_13;axis_protocol_checker_v1_1_11;axis_protocol_checker_v1_1_12;ieee_proposed=./ieee_proposed;smartconnect_v1_0;unisims_ver;xil_defaultlib;xpm,,,,,,
+D:/Project/Lab3/lab3_gcd/solution1/sim/verilog/gcd.autotb.v,1648541067,systemVerilog,,,,apatb_gcd_top,D:/Xilinx/Vivado/2020.1/data/xsim/ip/xsim_ip.ini,axi_protocol_checker_v1_1_12;axi_protocol_checker_v1_1_13;axis_protocol_checker_v1_1_11;axis_protocol_checker_v1_1_12;ieee_proposed=./ieee_proposed;smartconnect_v1_0;unisims_ver;xil_defaultlib;xpm,,,,,,
+D:/Project/Lab3/lab3_gcd/solution1/sim/verilog/gcd.v,1648541019,systemVerilog,,,,gcd,D:/Xilinx/Vivado/2020.1/data/xsim/ip/xsim_ip.ini,axi_protocol_checker_v1_1_12;axi_protocol_checker_v1_1_13;axis_protocol_checker_v1_1_11;axis_protocol_checker_v1_1_12;ieee_proposed=./ieee_proposed;smartconnect_v1_0;unisims_ver;xil_defaultlib;xpm,,,,,,
+D:/Project/Lab3/lab3_gcd/solution1/sim/verilog/gcd_AXILiteS_s_axi.v,1648541020,systemVerilog,,,,gcd_AXILiteS_s_axi,D:/Xilinx/Vivado/2020.1/data/xsim/ip/xsim_ip.ini,axi_protocol_checker_v1_1_12;axi_protocol_checker_v1_1_13;axis_protocol_checker_v1_1_11;axis_protocol_checker_v1_1_12;ieee_proposed=./ieee_proposed;smartconnect_v1_0;unisims_ver;xil_defaultlib;xpm,,,,,,
